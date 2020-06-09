@@ -5,7 +5,7 @@ This Application is highly inspired by this tutorial https://www.c-sharpcorner.c
 <b>About Platform Used </b>
 
 Microsoft visual studio 2017, SQL Server Express 2016.
-Frame worked used are ASP.NET MVC 5, C#, Dapper, Entity Framework as ORM and Repository Pattern.
+Framework used are ASP.NET MVC 5, C#, Dapper, Entity Framework as ORM and Repository Pattern.
 ELMAH included in packages
 
 <b> Login credentials with Password </b>
