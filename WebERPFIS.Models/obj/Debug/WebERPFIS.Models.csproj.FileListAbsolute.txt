@@ -1,0 +1,5 @@
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Models\bin\Debug\WebERPFIS.Models.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Models\bin\Debug\WebERPFIS.Models.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Models\obj\Debug\WebERPFIS.Models.csprojResolveAssemblyReference.cache
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Models\obj\Debug\WebERPFIS.Models.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Models\obj\Debug\WebERPFIS.Models.pdb

@@ -1,0 +1,34 @@
+﻿@model WebERPFIS.Models.MenuVM
+<div class="panel panel-default">
+    <div class="panel-heading"></div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-lg-4">
+                <label for="Id" class="col-form-label">MenuId:</label>
+                @Html.DisplayFor(model => model.Id)
+            </div>
+            <div class="col-lg-4">
+                <label for="Name" class="col-form-label">Name:</label>
+                @Html.DisplayFor(model => model.Name)
+            </div>
+            <div class="col-lg-4">
+                <label for="ParentId" class="col-form-label">ParentId:</label>
+                @Html.DisplayFor(model => model.ParentId)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4">
+                <label for="SortOrder_" class="col-form-label">SortOrder_:</label>
+                @Html.DisplayFor(model => model.SortOrder_)
+            </div>
+            <div class="col-lg-4">
+                <label for="UrlLink" class="col-form-label">UrlLink:</label>
+                @Html.DisplayFor(model => model.UrlLink)
+            </div>
+            <div class="col-lg-4">
+                <label for="Icon" class="col-form-label">Icon:</label>
+                @Html.DisplayFor(model => model.Icon)
+            </div>
+        </div>
+    </div>
+</div>

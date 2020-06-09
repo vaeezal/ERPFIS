@@ -1,0 +1,81 @@
+﻿
+@{
+    List<WebERPFIS.Models.MenuVM> menuList = ViewBag.Menu;
+}
+
+@foreach (var mp in menuList.Where(p => p.ParentId == "0"))
+{    
+    @*<script>
+        $(document).ready(function () {
+            var vPadding = @mp.MenuLevel * 3;
+            $(".paddingMenu").css({
+                "padding": vPadding + "px"
+            });
+        }
+    </script>*@
+    <style>
+        .paddingMenu {
+            padding-left: 7px;
+        }
+    </style>
+
+    <li>
+        @if (menuList.Count(p => p.Id == mp.Id && p.ChildCount > 0) > 0)
+        {
+            <a class="has-arrow" href="#" aria-expanded="false"><i class="@mp.Icon"></i>&nbsp;@mp.Name</a>
+        }
+        else
+        {
+            @*<a href="#"><i class="@mp.Icon"></i>&nbsp;@mp.Name</a>*@
+            <a href="@mp.UrlLink"><i class="@mp.Icon"></i>&nbsp;@mp.Name</a>
+        }
+        @if (menuList.Count(p => p.ParentId == mp.Id) > 0)
+        {
+            @:<ul class="nav child_menu paddingMenu">
+                //@:<ul style="list-style: none" class="paddingMenu">
+            }
+
+        @RenderMenuItem(menuList, mp)
+
+        @if (menuList.Count(p => p.ParentId == mp.Id) > 0)
+        {
+        @:</ul>
+    }
+
+    </li>
+}
+
+
+@helper RenderMenuItem(List<WebERPFIS.Models.MenuVM> menuList, WebERPFIS.Models.MenuVM mi)
+{
+    foreach (var cp in menuList.Where(p => p.ParentId == mi.Id))
+    {
+        @:<li class="nav child_menu paddingMenu">
+    //@:<li>
+    if (menuList.Count(p => p.Id == cp.Id && p.ChildCount > 0) > 0)
+    {
+        <a href="#" aria-expanded="false"> @cp.Name <i class="fa fa-angle-double-right fa-fw"></i> </a>
+    }
+    else
+    {
+        @*<a href="#"> @cp.Name</a>*@
+        <a href="@cp.UrlLink"> @cp.Name</a>
+    }
+
+    if (menuList.Count(p => p.ParentId == cp.Id) > 0)
+    {
+        @:<ul class="nav child_menu paddingMenu">
+            //@:<ul style="list-style: none" class="paddingMenu">
+        }
+
+        @RenderMenuItem(menuList, cp)
+        if (menuList.Count(p => p.ParentId == cp.Id) > 0)
+        {
+        @:</ul>
+    }
+    else
+    {
+    @:</li>
+        }
+    }
+}

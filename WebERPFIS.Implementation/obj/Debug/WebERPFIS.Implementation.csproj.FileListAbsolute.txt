@@ -1,0 +1,17 @@
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\WebERPFIS.Implementation.dll.config
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\WebERPFIS.Implementation.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\WebERPFIS.Implementation.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\Dapper.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\EntityFramework.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\System.Linq.Dynamic.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\WebERPFIS.Interface.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\WebERPFIS.Models.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\WebERPFIS.Interface.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\WebERPFIS.Models.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\Dapper.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\EntityFramework.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\obj\Debug\WebERPFIS.Implementation.csprojResolveAssemblyReference.cache
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\obj\Debug\WebERPFIS.Implementation.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS.Implementation\obj\Debug\WebERPFIS.Implementation.pdb

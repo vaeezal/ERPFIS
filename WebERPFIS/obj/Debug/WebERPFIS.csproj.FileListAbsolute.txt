@@ -1,0 +1,206 @@
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\ApplicationInsights.config
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\csc.exe
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\System.Collections.Immutable.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\vbc.exe
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\VBCSCompiler.exe
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\roslyn\VBCSCompiler.exe.config
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebERPFIS.dll.config
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebERPFIS.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebERPFIS.pdb
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Antlr3.Runtime.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\CaptchaMvc.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\ClosedXML.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\DocumentFormat.OpenXml.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Elmah.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Elmah.Mvc.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\EntityFramework.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\EntityFramework.SqlServer.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AI.DependencyCollector.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AI.Web.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AI.WindowsServer.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.ApplicationInsights.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.Google.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Web.Infrastructure.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Newtonsoft.Json.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Owin.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.Helpers.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.Mvc.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.Optimization.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.Razor.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.WebPages.Deployment.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.WebPages.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.WebPages.Razor.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebERPFIS.Concrete.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebERPFIS.Interface.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebERPFIS.Models.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebGrease.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Linq.Dynamic.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebERPFIS.Concrete.pdb
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebERPFIS.Concrete.dll.config
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebERPFIS.Interface.pdb
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\WebERPFIS.Models.pdb
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\CaptchaMvc.pdb
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\CaptchaMvc.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\ClosedXML.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AI.DependencyCollector.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AI.Web.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AI.WindowsServer.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.ApplicationInsights.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.Helpers.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.Mvc.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.Optimization.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.Razor.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.WebPages.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.WebPages.Deployment.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\System.Web.WebPages.Razor.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Antlr3.Runtime.pdb
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Newtonsoft.Json.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\EntityFramework.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\EntityFramework.SqlServer.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.Google.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\obj\Debug\WebERPFIS.csprojAssemblyReference.cache
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\obj\Debug\WebERPFIS.csproj.CoreCompileInputs.cache
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\obj\Debug\WebERPFIS.csproj.CopyComplete
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\obj\Debug\WebERPFIS.dll
+D:\Others\vae\proj_c#\ERPFIS - Copy (7) - bu bef rename concrete to impl\WebERPFIS\obj\Debug\WebERPFIS.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\ApplicationInsights.config
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\csc.exe
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\System.Collections.Immutable.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\vbc.exe
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\VBCSCompiler.exe
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\roslyn\VBCSCompiler.exe.config
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebERPFIS.dll.config
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebERPFIS.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebERPFIS.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Antlr3.Runtime.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\CaptchaMvc.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\ClosedXML.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\DocumentFormat.OpenXml.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Elmah.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Elmah.Mvc.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\EntityFramework.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\EntityFramework.SqlServer.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AI.DependencyCollector.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AI.Web.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AI.WindowsServer.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.ApplicationInsights.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.Google.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Web.Infrastructure.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Newtonsoft.Json.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Owin.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.Helpers.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.Mvc.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.Optimization.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.Razor.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.WebPages.Deployment.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.WebPages.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.WebPages.Razor.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebERPFIS.Implementation.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebERPFIS.Interface.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebERPFIS.Models.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebGrease.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Linq.Dynamic.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebERPFIS.Implementation.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebERPFIS.Implementation.dll.config
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebERPFIS.Interface.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\WebERPFIS.Models.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\CaptchaMvc.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\CaptchaMvc.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\ClosedXML.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AI.DependencyCollector.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AI.Web.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AI.WindowsServer.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.ApplicationInsights.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.Helpers.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.Mvc.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.Optimization.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.Razor.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.WebPages.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.WebPages.Deployment.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\System.Web.WebPages.Razor.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Antlr3.Runtime.pdb
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Newtonsoft.Json.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\EntityFramework.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\EntityFramework.SqlServer.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.Google.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\obj\Debug\WebERPFIS.csprojResolveAssemblyReference.cache
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\obj\Debug\WebERPFIS.dll
+D:\Others\vae\proj_c#\ERPFIS\WebERPFIS\obj\Debug\WebERPFIS.pdb
